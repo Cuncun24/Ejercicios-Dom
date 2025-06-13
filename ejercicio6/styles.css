@@ -1,0 +1,5 @@
+.tarea { padding: 10px; border: 1px solid #ccc; margin-top: 5px; display: flex; justify-content: space-between; align-items: center; }
+.icono { cursor: pointer; margin-left: 10px; font-weight: bold; }
+.completado { color: green; }
+.pendiente { color: orange; }
+.eliminar { color: red; }
